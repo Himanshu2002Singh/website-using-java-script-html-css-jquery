@@ -13,10 +13,17 @@ Instructions.
 column).
 
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/89336758/215265726-e72a5910-605f-4f2a-bfbe-18d04078f0a5.png)
+
 code--
-![Uploading image.png…]()
-![Uploading image.png…]()
+
+![image](https://user-images.githubusercontent.com/89336758/215265842-190e73fe-4d79-4b5f-ae5c-ae6a605cee99.png)
+![image](https://user-images.githubusercontent.com/89336758/215265852-325b1937-62c4-4562-b7dc-515b23b0c493.png)
+
+
+
+
+
 
 
 
