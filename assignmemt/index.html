@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+            <head>
+                <title>Assignment</title>
+                <link type="text/css" rel="stylesheet" href="style.css"
+            </head>
+            
+            <body>
+                <table>
+                    <tr>
+                        <td>
+                            <form autocomplete="off" onsubmit="onFormSubmit()">
+                                <div>
+                                    <label for="name">Name</label>
+                                    <input type="text" name="name" id="name"  required>
+                                </div>
+                                <div>
+                                    <label for="contact">Contact</label>
+                                    <input type="text" name="contact" id="contact" required>
+                                </div>
+                                <div class="form_action--button">
+                                    <input type="submit" value="Submit">
+                                </div>
+                            </form>
+                            <td>
+                                <table class="list" id="storeList">
+                                    <thead>
+                                        <tr>
+                                            <th>Name</th>
+                                            <th>Contact</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+            
+                                    </tbody>
+                                </table>
+                            </td>
+                        </td>
+                    </tr>
+                </table>
+                <input id="search" onkeyup="Search_name" type="text"
+                name="search" placeholder="Search name..">
+
+                <script type="text/javascript" src="./script.js"></script>
+            </body>
+            </html>
